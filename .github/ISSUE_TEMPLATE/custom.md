@@ -1,10 +1,10 @@
 ---
 name: User story template
-about: 
-title: <Title>
+about: Default user story template
+title: "<Title>"
 labels: ''
 assignees: ''
 
 ---
 
-
+As a ** ** I can ** ** so that ** **.
