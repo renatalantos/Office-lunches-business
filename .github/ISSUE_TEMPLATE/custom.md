@@ -1,6 +1,6 @@
 ---
 name: User story template
-about: As a ** ** I can ** ** so that ** **.
+about: 
 title: <Title>
 labels: ''
 assignees: ''
