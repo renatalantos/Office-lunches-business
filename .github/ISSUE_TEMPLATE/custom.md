@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: User story template
+about: As a ** ** I can ** ** so that ** **.
+title: <Title>
 labels: ''
 assignees: ''
 
